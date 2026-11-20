@@ -1,0 +1,36 @@
+# Arduino build output and tooling
+build/
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.d
+*.a
+
+# Arduino IDE / editor files
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*.swo
+*~
+
+# Local configuration and secrets
+.env
+.env.*
+*.local
+
+# Python environments (if used for tooling)
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Microsoft Office temporary lock files
+~$*
+*.pptx
