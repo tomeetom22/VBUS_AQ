@@ -1,0 +1,6 @@
+{
+  "opc1": true,
+  "opc2": true,
+  "gas1": false,
+  "gas2": false
+}
